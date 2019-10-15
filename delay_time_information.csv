@@ -1,4 +1,4 @@
-Phase,Station,Station Lat (¼),Station Lon (¼),Station Zed (km),Event Lat (¼),Event Lon (¼),Event Depth (km),Delay Time (s),Bandpass (Hz)
+Phase,Station,Station Lat,Station Lon,Station Zed,Event Lat,Event Lon,Event Depth,Delay Time (s),Bandpass (Hz)
  P, TL01,-9.2068,124.3642,0.021,7.7448,94.3342,21.54,-1.31136, 0.02-0.1
  P, TL02,-8.9884,125.208,0.271,7.7448,94.3342,21.54,0.92189, 0.02-0.1
  P, TL03,-8.6043,125.5572,0.692,7.7448,94.3342,21.54,-0.30297, 0.02-0.1
